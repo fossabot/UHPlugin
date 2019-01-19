@@ -1,4 +1,5 @@
 # UltraHardcore, reloaded [![Build Status](http://jenkins.carrade.eu/job/UltraHardcoreReloaded/badge/icon)](http://jenkins.carrade.eu/job/UltraHardcoreReloaded/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FzDevelopers%2FUHPlugin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FzDevelopers%2FUHPlugin?ref=badge_shield)
 
 
 C'est très la source.
@@ -346,6 +347,9 @@ To opt out of metrics you can edit the `config.yml` file in the `PluginMetrics` 
    *The original project was published under GPLv3, but without any piece of code in common between this original and the current project, the license was changed to CeCILL-B.*
  - Special thanks to [@jonyroda97](https://github.com/jonyroda97) and [@Amauryroco](https://github.com/Amauryroco), for many interesting suggestions.
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FzDevelopers%2FUHPlugin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FzDevelopers%2FUHPlugin?ref=badge_large)
 
 ### Translators
 
